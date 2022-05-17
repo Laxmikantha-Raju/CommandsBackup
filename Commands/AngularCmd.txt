@@ -1,0 +1,16 @@
+npm install -g @angular/cli
+
+ng new <ProjectName>AngularFirstProject
+
+cd <ProjectName>
+
+ng serve
+
+------I created like below-----
+npm install -g @angular/cli
+
+ng new AngularFirstProject
+
+cd C:\Users\cogdotnet09\source\repos\AngularDemo\AngularFirstProject
+
+ng serve

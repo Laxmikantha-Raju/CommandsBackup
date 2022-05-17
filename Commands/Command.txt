@@ -1,0 +1,9 @@
+Scaffold-DbContext "Server=CTSDOTNET40;Database=FlightTicketBookingDB;User id=sa;password=pass@word1;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Scaffold-DbContext "Server=CTSDOTNET40;Database=FlightTicketBookingDB;User id=sa;password=pass@word1;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
+
+
+
+---azure
+
+Scaffold-DbContext "Server=tcp:azuretestdbnew.database.windows.net,1433;Initial Catalog=azuretestdbnew;Persist Security Info=False;User ID=cogdotnet09;Password=Kantha@9844398519;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

@@ -1,0 +1,17 @@
+{
+  "flightNumber": "IndiXOO1",
+  "flightAirlineNo": 1,
+  "flightFromPlace": "IND",
+  "flightToPlace": "Ukrain",
+  "flightStartDateTime": "2022-05-04T16:30:08.888Z",
+  "flightEndDateTime": "2022-05-04T16:30:08.888Z",
+  "flighScheduleDays": "Daily",
+  "flightInstrumentUsed": "IndiXOO1",
+  "flightBusinessClassSeat": 40,
+  "flightEconomyClassSeat": 60,
+  "flightTicketCost": 60000,
+  "flightNoOfRows": 100,
+  "flightMeal": 1
+}
+
+

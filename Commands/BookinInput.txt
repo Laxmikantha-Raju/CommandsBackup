@@ -1,0 +1,35 @@
+{
+  "tblBookings": [
+    {
+      "bookingId": 0,
+      "bookingName": "ram",
+      "bookingEmailId": "ram@gmail.com",
+      "bookingNoOfSeatBook": 1,
+      "bookingPassengerId": 1,
+      "bookingMeal": "1",
+      "bookingSeatNo": "A11",
+      "bookingFlightNumber": "IndiXOO1",
+      "bookingPnr": "string",
+      "bookingIsActiceYn": "Y",
+      "bookingCreatedBy": 1,
+      "bookingCreatedOn": "2022-05-10T13:58:31.018Z",
+      "bookingUpdatedBy": 1,
+      "bookingUpdatedOn": "2022-05-10T13:58:31.018Z"
+    }
+  ],
+  "tblPassengers": [
+    {
+      "passengerPnr": "string",
+      "passengerName": "ram",
+      "passengerAge": 35,
+      "passengerGender": "Male",
+      "passengerMaleType": "veg",
+      "passengerPrice": 100,
+      "passengerIsActiceYn": "Y",
+      "passengerCreatedBy": 1,
+      "passengerCreatedOn": "2022-05-10T13:58:31.018Z",
+      "passengerUpdatedBy": 1,
+      "passengerUpdatedOn": "2022-05-10T13:58:31.018Z"
+    }
+  ]
+}
